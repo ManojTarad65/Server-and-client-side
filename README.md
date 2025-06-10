@@ -23,3 +23,10 @@
 8. Client side animations & effect
 
 
+# Important keys 
+
+## very important
+ 1. If you want tp run code in a specific server or client side then you have to install client-only package or server-only package
+2. npm install client-only and then import "client-only" and wrap the code in clientOnly
+3. npm install server-only and then import "server-only" and wrap the code in serverOnly
+ 
